@@ -90,7 +90,7 @@ The structure of this project looks something like this:
 │   └── students
 │       ├── student_name_background.jpg
 │       ├── student_name_index.jpg
-│       └── student_name_profile.jpg
+│       └── student_name_profile.jpg  
 ├── index.html
 ├── js
 │   └── javascipt files
